@@ -1,0 +1,20 @@
+{
+  "name": "golden-route-website",
+  "version": "1.0.0",
+  "description": "Golden Route Import and Export Co., Ltd - Official Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'Static website - no build step required'"
+  },
+  "keywords": [
+    "import",
+    "export",
+    "golden route",
+    "company website"
+  ],
+  "author": "Golden Route Co., Ltd",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
