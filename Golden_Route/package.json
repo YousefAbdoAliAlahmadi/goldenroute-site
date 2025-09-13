@@ -1,0 +1,22 @@
+{
+  "name": "golden-route-website",
+  "version": "1.0.0",
+  "description": "Golden Route Import and Export Co., Ltd - Company Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --port=3000",
+    "build": "echo 'No build step required for static site'"
+  },
+  "keywords": [
+    "import",
+    "export",
+    "golden-route",
+    "company",
+    "website"
+  ],
+  "author": "Golden Route",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
